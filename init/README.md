@@ -1,1 +1,1 @@
-[IIT College Lviv](https://itcollege.lviv.ua "IT College Lviv")
+[IT College Lviv](https://itcollege.lviv.ua "IT College Lviv")
