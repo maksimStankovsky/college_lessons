@@ -1,1 +1,1 @@
-[I'm an inline-style link with title](https://itcollege.lviv.ua "IT College Lviv")
+[IIT College Lviv](https://itcollege.lviv.ua "IT College Lviv")
